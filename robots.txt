@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fengdh23.github.io/try2life/sitemap.xml

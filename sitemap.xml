@@ -2,31 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://fengdh23.github.io/try2life/about/</loc>
+    <lastmod>2022-04-05T10:46:04+08:00</lastmod>
+  </url><url>
+    <loc>https://fengdh23.github.io/try2life/categories/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/category/</loc>
+    <loc>https://fengdh23.github.io/try2life/categories/category/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/my-first-post/</loc>
+    <loc>https://fengdh23.github.io/try2life/post/my-first-post/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://fengdh23.github.io/try2life/post/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/subcategory/</loc>
+    <loc>https://fengdh23.github.io/try2life/categories/subcategory/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/tag1/</loc>
+    <loc>https://fengdh23.github.io/try2life/tags/tag1/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/tag2/</loc>
+    <loc>https://fengdh23.github.io/try2life/tags/tag2/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://fengdh23.github.io/try2life/tags/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://fengdh23.github.io/try2life/</loc>
     <lastmod>2022-04-03T17:04:24+08:00</lastmod>
   </url>
 </urlset>
