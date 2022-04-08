@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on 海叔的个人博客</title>
+    <title>Categories on 自信、自律、自我、自由</title>
     <link>https://fengdh23.github.io/try2life/categories/</link>
-    <description>Recent content in Categories on 海叔的个人博客</description>
+    <description>Recent content in Categories on 自信、自律、自我、自由</description>
+    <image>
+      <url>https://fengdh23.github.io/try2life/papermod-cover.png</url>
+      <link>https://fengdh23.github.io/try2life/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 03 Apr 2022 17:04:24 +0800</lastBuildDate><atom:link href="https://fengdh23.github.io/try2life/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
